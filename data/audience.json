@@ -1,0 +1,130 @@
+{
+  "report": {
+    "checked": "2026-11-02",
+    "from": "2026-10-02",
+    "to": "2026-10-31",
+    "timezone": "America/Mexico_City"
+  },
+  "headline": {
+    "instagram": {
+      "followers": 17529,
+      "followersAsOf": "2026-10-31",
+      "views": 290197,
+      "viewsFrom": "2026-10-02",
+      "viewsTo": "2026-10-31"
+    },
+    "tiktok": {
+      "followersDisplay": "36.8k",
+      "lastVerified": "2026-10-26"
+    }
+  },
+  "audience": {
+    "checked": "2026-11-02",
+    "from": "2026-10-02",
+    "to": "2026-10-31",
+    "platforms": [
+      {
+        "id": "instagram",
+        "name": "Instagram",
+        "source": "Metricool",
+        "checked": "2026-11-02",
+        "base": 17483,
+        "age": [
+          { "label": "25-34", "value": 60.1841789166619 },
+          { "label": "35-44", "value": 18.34353371846937 },
+          { "label": "18-24", "value": 17.508436767145227 },
+          { "label": "45-54", "value": 2.533890064634216 },
+          { "label": "65+", "value": 0.623462792426929 },
+          { "label": "13-17", "value": 0.41754847566207176 },
+          { "label": "55-64", "value": 0.388949265000286 }
+        ],
+        "gender": [
+          { "label": "M", "value": 80.10638906366184 },
+          { "label": "F", "value": 10.026883258022078 },
+          { "label": "U", "value": 9.866727678316078 }
+        ],
+        "countries": [
+          { "label": "MX", "value": 39.63999938964844 },
+          { "label": "CO", "value": 11.489999771118165 },
+          { "label": "AR", "value": 10.430000305175781 },
+          { "label": "PE", "value": 7.460000038146973 },
+          { "label": "CL", "value": 7.019999980926514 }
+        ]
+      },
+      {
+        "id": "youtube",
+        "name": "YouTube",
+        "source": "Metricool",
+        "checked": "2026-11-02",
+        "age": [
+          { "label": "13-17", "value": 8.125 },
+          { "label": "18-24", "value": 16.875 },
+          { "label": "25-34", "value": 39.375 },
+          { "label": "35-44", "value": 24.375 },
+          { "label": "45-54", "value": 7.5 },
+          { "label": "55-64", "value": 1.25 },
+          { "label": "65+", "value": 2.5 }
+        ],
+        "gender": [
+          { "label": "M", "value": 76.875 },
+          { "label": "F", "value": 21.875 },
+          { "label": "U", "value": 1.25 }
+        ],
+        "countries": [
+          { "label": "MX", "value": 47.169998168945315 },
+          { "label": "ES", "value": 9.550000190734863 },
+          { "label": "CO", "value": 8.489999771118164 },
+          { "label": "CL", "value": 8.140000343322754 },
+          { "label": "PE", "value": 4.829999923706055 }
+        ]
+      },
+      {
+        "id": "tiktok",
+        "name": "TikTok",
+        "source": "Beacons",
+        "checked": "2026-10-26",
+        "age": [
+          { "label": "18-24", "value": 23.6 },
+          { "label": "25-34", "value": 56.9 },
+          { "label": "35-44", "value": 15.6 },
+          { "label": "45-54", "value": 3 },
+          { "label": "55-64", "value": 0.9 }
+        ],
+        "gender": [
+          { "label": "M", "value": 83 },
+          { "label": "F", "value": 17 }
+        ],
+        "countries": [
+          { "label": "MX", "value": 36.7 },
+          { "label": "PE", "value": 10.9 },
+          { "label": "CO", "value": 8.9 },
+          { "label": "AR", "value": 5.7 },
+          { "label": "EC", "value": 3.7 }
+        ]
+      },
+      {
+        "id": "facebook",
+        "name": "Facebook",
+        "source": "Metricool",
+        "checked": "2026-11-02",
+        "age": null,
+        "gender": null,
+        "countries": [
+          { "label": "MX", "value": 41.15999984741211 },
+          { "label": "PE", "value": 14.140000343322754 },
+          { "label": "CO", "value": 11.5 },
+          { "label": "BO", "value": 5.320000171661377 },
+          { "label": "VE", "value": 3.759999990463257 }
+        ]
+      },
+      {
+        "id": "twitch",
+        "name": "Twitch",
+        "source": "Metricool",
+        "age": null,
+        "gender": null,
+        "countries": null
+      }
+    ]
+  }
+}

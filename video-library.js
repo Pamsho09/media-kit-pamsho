@@ -1,874 +1,949 @@
 window.VIDEO_LIBRARY = [
   {
-    "brand": "Kiven",
-    "title": "El 21 de octubre me invitaron al lanzamiento de Kiven en CDMX y les traje un poquito de lo que vivimos 👀📱",
-    "url": "https://www.instagram.com/reel/De0b3TbSpOt/",
-    "platform": "Instagram",
-    "date": "2026-10-23",
-    "source": "Metricool"
-  },
-  {
-    "brand": "AmazingTalker",
-    "title": "¿50 minutos de inglés 1 a 1 por solo US$4? 😳✈️",
-    "url": "https://www.instagram.com/reel/DedS9MAt62W/",
-    "platform": "Instagram",
-    "date": "2026-10-14",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Coursera",
-    "title": "#courserapartner Tenía un problema específico en el trabajo: revisar alertas de KYC a mano tomaba demasiado tiempo.…",
-    "url": "https://www.instagram.com/reel/DdaQMjHuOEo/",
-    "platform": "Instagram",
-    "date": "2026-09-18",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Coursera",
-    "title": "#courserapartner Soy autodidacta. Nadie me enseñó a programar formalmente, y con la IA sentí ese mismo miedo otra…",
-    "url": "https://www.instagram.com/reel/DdKxhD3yNL4/",
-    "platform": "Instagram",
-    "date": "2026-09-12",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Coursera",
-    "title": "#courserapartner La IA se vuelve mucho más interesante cuando dejas de verla solo como una herramienta para hacer…",
-    "url": "https://www.instagram.com/reel/DcxA1Krtw9O/",
-    "platform": "Instagram",
-    "date": "2026-09-02",
-    "source": "Metricool"
-  },
-  {
-    "brand": "BenQ",
-    "title": "@benq_mexico nos mandó su ScreenBar Pro y hoy la abrimos juntos 👀",
-    "url": "https://www.instagram.com/reel/DcWN6dCublN/",
-    "platform": "Instagram",
-    "date": "2026-08-22",
-    "source": "Metricool"
-  },
-  {
-    "brand": "HostGator",
-    "title": "¿También ya perdiste la cuenta de cuántas suscripciones de IA estás pagando? 😅",
-    "url": "https://www.instagram.com/reel/DbrnHo9t1oa/",
-    "platform": "Instagram",
-    "date": "2026-08-06",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Coursera",
-    "title": "#CourseraPartner Cuando empecé, programaba puras líneas de código. Hoy diseño arquitectura — y lo que cambió no fue…",
-    "url": "https://www.instagram.com/reel/Dbj65ztB6C3/",
-    "platform": "Instagram",
-    "date": "2026-08-03",
-    "source": "Metricool"
-  },
-  {
-    "brand": "HostGator",
-    "title": "Tengo 5 cosas corriendo en un servidor que trabajan solas: un cron me resume las noticias tech cada mañana, registro…",
-    "url": "https://www.instagram.com/reel/DamHRzZthKt/",
-    "platform": "Instagram",
-    "date": "2026-07-10",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "¿Y si tu documento de especificaciones pudiera convertirse en una app real sin volver a explicar todo desde cero? 🤯",
-    "url": "https://www.instagram.com/reel/Daa4KNAODDO/",
-    "platform": "Instagram",
-    "date": "2026-07-05",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Xiaomi / POCO",
-    "title": "Llevo 2 semanas con el Xiaomi 17T Pro y hay algo que nadie te está diciendo. La cámara Leica 5X y la batería…",
-    "url": "https://www.instagram.com/reel/DaUC1OvB8QL/",
-    "platform": "Instagram",
-    "date": "2026-07-03",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Xiaomi / POCO",
-    "title": "Hoy salí de casa por una sola razón: ir a ver en persona el teléfono que acaba de llegar a México 📸 Fui al pop-up de…",
-    "url": "https://www.instagram.com/reel/DZ3uGHghadL/",
-    "platform": "Instagram",
-    "date": "2026-06-22",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Overcut",
-    "title": "Overcut — Agentes en el flujo de desarrollo",
-    "url": "https://www.instagram.com/reel/DZxfjBPuYyw/",
-    "platform": "Instagram",
-    "date": "2026-06-19",
-    "source": "Gmail"
+    brand: "Kiven",
+    title:
+      "El 21 de octubre me invitaron al lanzamiento de Kiven en CDMX y les traje un poquito de lo que vivimos 👀📱",
+    url: "https://www.instagram.com/reel/De0b3TbSpOt/",
+    platform: "Instagram",
+    date: "2026-10-23",
+    source: "Metricool",
+  },
+  {
+    brand: "AmazingTalker",
+    title: "¿50 minutos de inglés 1 a 1 por solo US$4? 😳✈️",
+    url: "https://www.instagram.com/reel/DedS9MAt62W/",
+    platform: "Instagram",
+    date: "2026-10-14",
+    source: "Metricool",
+  },
+  {
+    brand: "Coursera",
+    title:
+      "#courserapartner Tenía un problema específico en el trabajo: revisar alertas de KYC a mano tomaba demasiado tiempo.…",
+    url: "https://www.instagram.com/reel/DdaQMjHuOEo/",
+    platform: "Instagram",
+    date: "2026-09-18",
+    source: "Metricool",
+  },
+  {
+    brand: "Coursera",
+    title:
+      "#courserapartner Soy autodidacta. Nadie me enseñó a programar formalmente, y con la IA sentí ese mismo miedo otra…",
+    url: "https://www.instagram.com/reel/DdKxhD3yNL4/",
+    platform: "Instagram",
+    date: "2026-09-12",
+    source: "Metricool",
+  },
+  {
+    brand: "Coursera",
+    title:
+      "#courserapartner La IA se vuelve mucho más interesante cuando dejas de verla solo como una herramienta para hacer…",
+    url: "https://www.instagram.com/reel/DcxA1Krtw9O/",
+    platform: "Instagram",
+    date: "2026-09-02",
+    source: "Metricool",
+  },
+  {
+    brand: "BenQ",
+    title: "@benq_mexico nos mandó su ScreenBar Pro y hoy la abrimos juntos 👀",
+    url: "https://www.instagram.com/reel/DcWN6dCublN/",
+    platform: "Instagram",
+    date: "2026-08-22",
+    source: "Metricool",
+  },
+  {
+    brand: "HostGator",
+    title:
+      "¿También ya perdiste la cuenta de cuántas suscripciones de IA estás pagando? 😅",
+    url: "https://www.instagram.com/reel/DbrnHo9t1oa/",
+    platform: "Instagram",
+    date: "2026-08-06",
+    source: "Metricool",
+  },
+  {
+    brand: "Coursera",
+    title:
+      "#CourseraPartner Cuando empecé, programaba puras líneas de código. Hoy diseño arquitectura — y lo que cambió no fue…",
+    url: "https://www.instagram.com/reel/Dbj65ztB6C3/",
+    platform: "Instagram",
+    date: "2026-08-03",
+    source: "Metricool",
+  },
+  {
+    brand: "HostGator",
+    title:
+      "Tengo 5 cosas corriendo en un servidor que trabajan solas: un cron me resume las noticias tech cada mañana, registro…",
+    url: "https://www.instagram.com/reel/DamHRzZthKt/",
+    platform: "Instagram",
+    date: "2026-07-10",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title:
+      "¿Y si tu documento de especificaciones pudiera convertirse en una app real sin volver a explicar todo desde cero? 🤯",
+    url: "https://www.instagram.com/reel/Daa4KNAODDO/",
+    platform: "Instagram",
+    date: "2026-07-05",
+    source: "Metricool",
+  },
+  {
+    brand: "Xiaomi / POCO",
+    title:
+      "Llevo 2 semanas con el Xiaomi 17T Pro y hay algo que nadie te está diciendo. La cámara Leica 5X y la batería…",
+    url: "https://www.instagram.com/reel/DaUC1OvB8QL/",
+    platform: "Instagram",
+    date: "2026-07-03",
+    source: "Metricool",
+  },
+  {
+    brand: "Xiaomi / POCO",
+    title:
+      "Hoy salí de casa por una sola razón: ir a ver en persona el teléfono que acaba de llegar a México 📸 Fui al pop-up de…",
+    url: "https://www.instagram.com/reel/DZ3uGHghadL/",
+    platform: "Instagram",
+    date: "2026-06-22",
+    source: "Metricool",
+  },
+  {
+    brand: "Overcut",
+    title: "Overcut — Agentes en el flujo de desarrollo",
+    url: "https://www.instagram.com/reel/DZxfjBPuYyw/",
+    platform: "Instagram",
+    date: "2026-06-19",
+    source: "Gmail",
+  },
+  {
+    brand: "Overcut",
+    title: "Overcut — Agentes en el flujo de desarrollo",
+    url: "https://vt.tiktok.com/ZSQvGcVws/",
+    platform: "TikTok",
+    date: "2026-06-19",
+    source: "Gmail",
+  },
+  {
+    brand: "GVGmall",
+    title:
+      "¿Cuántas veces abriste Word el mes pasado? Hay quien paga Office todos los meses solo para abrir Excel una vez 😅…",
+    url: "https://www.instagram.com/reel/DZq2IimBhmL/",
+    platform: "Instagram",
+    date: "2026-06-17",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title:
+      "¿Te enteras de las novedades de tus competidores por un amigo o varios días tarde?",
+    url: "https://www.instagram.com/reel/DY8f1IjOaMq/",
+    platform: "Instagram",
+    date: "2026-05-30",
+    source: "Metricool",
+  },
+  {
+    brand: "Whokeys",
+    title:
+      "A ver… Microsoft 365 parece barato hasta que haces las cuentas y descubres cuánto terminas pagando después de años 💀",
+    url: "https://www.instagram.com/reel/DY005uGu47t/",
+    platform: "Instagram",
+    date: "2026-05-27",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title: "¿Sabes qué es una retry storm en producción?",
+    url: "https://www.instagram.com/reel/DYYcoHCJSTx/",
+    platform: "Instagram",
+    date: "2026-05-16",
+    source: "Metricool",
+  },
+  {
+    brand: "Dreamina",
+    title:
+      "Soy dev, no editor — pero hice este video con una sola línea de texto 🤯",
+    url: "https://www.instagram.com/reel/DYLkuQ3yvBd/",
+    platform: "Instagram",
+    date: "2026-05-11",
+    source: "Metricool",
+  },
+  {
+    brand: "Dreamina",
+    title: "Dreamina Seedance 2.0 in early access on Dreamina. Try it now!",
+    url: "https://www.instagram.com/reel/DWowr_tDZVx/",
+    platform: "Instagram",
+    date: "2026-04-02",
+    source: "Metricool",
+  },
+  {
+    brand: "Kimi",
+    title:
+      "Si todavía estás pagando APIs carísimas para programar… o ya te resignaste a modelos baratos que no dan la talla,…",
+    url: "https://www.instagram.com/reel/DVtbwCODT3W/",
+    platform: "Instagram",
+    date: "2026-03-10",
+    source: "Metricool",
+  },
+  {
+    brand: "Kimi",
+    title:
+      "Un modelo open llamado Kimi está compitiendo en coding y cuesta hasta 8× menos.",
+    url: "https://www.youtube.com/watch?v=GweI1BCf8QE",
+    platform: "YouTube",
+    date: "2026-03-10",
+    source: "Metricool",
+  },
+  {
+    brand: "Kimi",
+    title: "Pregunta seria 👀",
+    url: "https://www.instagram.com/reel/DUuAZJWDffK/",
+    platform: "Instagram",
+    date: "2026-02-14",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title: "Subir fotos, grabar audios, autenticación y storage…",
+    url: "https://www.instagram.com/reel/DTRHiSQjduH/",
+    platform: "Instagram",
+    date: "2026-01-08",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title:
+      "Una app fullstack para guardar fotos + audios desde un solo prompt 🚀",
+    url: "https://www.youtube.com/watch?v=w2mhBhw-NEM",
+    platform: "YouTube",
+    date: "2026-01-08",
+    source: "Metricool",
+  },
+  {
+    brand: "Skywork",
+    title:
+      "💼 La parte más difícil de ser freelance no es programar… es vender.",
+    url: "https://www.instagram.com/reel/DTIyTxnDiGL/",
+    platform: "Instagram",
+    date: "2026-01-05",
+    source: "Metricool",
+  },
+  {
+    brand: "Skywork",
+    title:
+      "Deja Word.  propuestas profesionales y cierra clientes en minutos con IA 🚀",
+    url: "https://www.youtube.com/watch?v=gEvT3mgqlZU",
+    platform: "YouTube",
+    date: "2026-01-05",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title: "💭 A veces no necesitas otra app… necesitas decir las cosas bien.",
+    url: "https://www.instagram.com/reel/DTDlsgJDXjS/",
+    platform: "Instagram",
+    date: "2026-01-03",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title:
+      "Una app para escribir disculpa bien hechassin textos incómodos ni vueltas raras",
+    url: "https://www.youtube.com/watch?v=0mHmt4KyeXA",
+    platform: "YouTube",
+    date: "2026-01-03",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title: "💥 Tus propósitos no fallan… fallan por falta de datos.",
+    url: "https://www.instagram.com/reel/DS-RPnlDSKI/",
+    platform: "Instagram",
+    date: "2026-01-01",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title:
+      "Tus propósito no fallan,fallas por no medirlos 📊Construye algo que te confronte 💥",
+    url: "https://www.youtube.com/watch?v=ypRyu-rX9tk",
+    platform: "YouTube",
+    date: "2026-01-01",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title: "🤯 Sí, acabo de construir una app completa desde mi celular.",
+    url: "https://www.instagram.com/reel/DSxkt-_jffk/",
+    platform: "Instagram",
+    date: "2025-12-27",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title:
+      "Construí una app completa desde mi celular. Ahora mis ideas ya no mueren en Notas 📱🚀@rocketdotnew",
+    url: "https://www.youtube.com/watch?v=Ik_CGhI1RRg",
+    platform: "YouTube",
+    date: "2025-12-27",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title:
+      "🎅🎁 Secret Santa, pero bien hecho: sin cuentas, sin registros, sin correos… solo links privados.",
+    url: "https://www.instagram.com/reel/DSpvviWDVuq/",
+    platform: "Instagram",
+    date: "2025-12-24",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title:
+      "Secret Santa sin cuentas: solo links privados y UI navideña premium @rocketdotnew",
+    url: "https://www.youtube.com/watch?v=NggcR9o2H7E",
+    platform: "YouTube",
+    date: "2025-12-24",
+    source: "Metricool",
+  },
+  {
+    brand: "TerraMaster",
+    title: "Creías que un NAS solo servía para guardar archivos? 😏",
+    url: "https://www.instagram.com/reel/DQwaCqXjZ5g/",
+    platform: "Instagram",
+    date: "2025-11-07",
+    source: "Metricool",
+  },
+  {
+    brand: "TerraMaster",
+    title:
+      "💾 Tu NAS no solo guarda archivos… pued #pamsho_  correr bots y hasta tu casa inteligente 🧠",
+    url: "https://www.youtube.com/watch?v=m-NgOcoWZeg",
+    platform: "YouTube",
+    date: "2025-11-07",
+    source: "Metricool",
+  },
+  {
+    brand: "Steren",
+    title:
+      "⚡️ ¿Sabías que ahora puedes aprender electrónica y programación desde cero con cursos gratuitos de @steren.oficial ?",
+    url: "https://www.instagram.com/reel/DQCxrl9CXXG/",
+    platform: "Instagram",
+    date: "2025-10-20",
+    source: "Metricool",
+  },
+  {
+    brand: "Steren",
+    title:
+      "⚡️ Cursos gratis de electrónica con kits de Steren 😎 #pamsho_ #Steren #techlearning",
+    url: "https://www.youtube.com/watch?v=QNllJ5VqKLo",
+    platform: "YouTube",
+    date: "2025-10-20",
+    source: "Metricool",
+  },
+  {
+    brand: "Coddy Tech",
+    title:
+      "👨‍💻 Aprender a programar desde cero suena fácil… hasta que abres la terminal y parece que te hackean.",
+    url: "https://www.instagram.com/reel/DPO6eTVjXdk/",
+    platform: "Instagram",
+    date: "2025-09-30",
+    source: "Metricool",
+  },
+  {
+    brand: "Coddy Tech",
+    title: "Aprender a programar es difícil… Coddy.tech lo hace divertido 🚀👨‍💻",
+    url: "https://www.youtube.com/watch?v=O0MMsR29-AI",
+    platform: "YouTube",
+    date: "2025-09-30",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title: "⏳ ¿Cuánto tardarías en codear una app de citas médicas?",
+    url: "https://www.instagram.com/reel/DO9OvQeCXWO/",
+    platform: "Instagram",
+    date: "2025-09-23",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title:
+      "Con Rocket armé un app de citas médicas en minutos ⏳🚀 ¿Tú cuánto tardarías?",
+    url: "https://www.youtube.com/watch?v=u_ywfTyVfeA",
+    platform: "YouTube",
+    date: "2025-09-23",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title:
+      "⚡️ ¿Sigues perdiendo horas configurando un backend solo para un MVP?",
+    url: "https://www.instagram.com/reel/DO3vklejUDK/",
+    platform: "Instagram",
+    date: "2025-09-21",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title: "Rocket + Supabase = backend completo en minutos, no en semanas 🚀",
+    url: "https://www.youtube.com/watch?v=bzRYyQWTL28",
+    platform: "YouTube",
+    date: "2025-09-21",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title: "✨ Muchos creen que Rocket es “magia”, pero no: es código real.",
+    url: "https://www.instagram.com/reel/DOy0IAcFOwM/",
+    platform: "Instagram",
+    date: "2025-09-19",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title:
+      "Rocket no es magia: es código real, apps listas para producción en minutos.",
+    url: "https://www.youtube.com/watch?v=c9VrKnBgTYk",
+    platform: "YouTube",
+    date: "2025-09-19",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title:
+      "🤯 ¿Sigues presentando wireframes que nunca se usan? Con Rocket pasas de mockups a prototipos reales en horas, no en…",
+    url: "https://www.instagram.com/reel/DOtYkAyDVgp/",
+    platform: "Instagram",
+    date: "2025-09-17",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title: "De mockups eternos a prototipos reales en horas con Rocket 🚀",
+    url: "https://www.youtube.com/watch?v=TQ7uqktL9F8",
+    platform: "YouTube",
+    date: "2025-09-17",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title:
+      "🚀 Todos soñamos con un intern que haga todo bien… y en la vida real no existe.",
+    url: "https://www.instagram.com/reel/DOoaZgKDSDx/",
+    platform: "Instagram",
+    date: "2025-09-15",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title: "Rocket: el intern que sí sabe codear (y no rompe la DB) 🚀",
+    url: "https://www.youtube.com/watch?v=LoNLL1jiqIo",
+    platform: "YouTube",
+    date: "2025-09-15",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title:
+      "🚀 ¿Tu empresa tarda meses en lanzar un MVP? Con Rocket puedes reducir ese tiempo a horas.",
+    url: "https://www.instagram.com/reel/DOjIP-3jJL-/",
+    platform: "Instagram",
+    date: "2025-09-13",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title:
+      "De meses a horas 🚀 así Rocket convierte tu idea en un MVP listo para mostrar.",
+    url: "https://www.youtube.com/watch?v=S3I9fyCBhio",
+    platform: "YouTube",
+    date: "2025-09-13",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title:
+      "Le pedí a Rocket un Tinder de perritos 🐶❤️ y sí… hasta hizo la lógica de match.",
+    url: "https://www.youtube.com/watch?v=ZECuXYPXE8Q",
+    platform: "YouTube",
+    date: "2025-09-12",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title:
+      "🔥 Le pedí a Rocket que armara un Tinder de perritos… y sí, funcionó.",
+    url: "https://www.instagram.com/reel/DOd_mOPEa_o/",
+    platform: "Instagram",
+    date: "2025-09-11",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title:
+      "🚀 ¿Te imaginas generar un sitio web o una app con solo describir tu idea?",
+    url: "https://www.instagram.com/reel/DOY5eSDjbEg/",
+    platform: "Instagram",
+    date: "2025-09-09",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title: "#rocket.new #rocketai #rocket #nocoderocket",
+    url: "https://www.youtube.com/watch?v=NnxFVQTf8s8",
+    platform: "YouTube",
+    date: "2025-09-09",
+    source: "Metricool",
+  },
+  {
+    brand: "TerraMaster",
+    title:
+      "NAS = nube privada + server dev en casa. ¿Quieres guía paso a paso? #pamsho_",
+    url: "https://www.youtube.com/watch?v=_FmHDNmu9hs",
+    platform: "YouTube",
+    date: "2025-09-03",
+    source: "Metricool",
+  },
+  {
+    brand: "TerraMaster",
+    title: "TerraMaster — Nube privada y servidor",
+    url: "https://www.instagram.com/reel/DOJtck9Cf_1/",
+    platform: "Instagram",
+    date: "2025-09-03",
+    source: "Beacons",
+  },
+  {
+    brand: "TerraMaster",
+    title: "TerraMaster — Nube privada y servidor",
+    url: "https://www.tiktok.com/@pamsho_/video/7545945870844398855",
+    platform: "TikTok",
+    date: "2025-09-03",
+    source: "Beacons",
+  },
+  {
+    brand: "rocket.new",
+    title: "Rocket — Validar un MVP",
+    url: "https://www.instagram.com/reel/DNHVHhIAXl1/",
+    platform: "Instagram",
+    date: "2025-08-09",
+    source: "Beacons",
+  },
+  {
+    brand: "rocket.new",
+    title: "Rocket — Validar un MVP",
+    url: "https://www.tiktok.com/@pamsho_/video/7536385979872038151",
+    platform: "TikTok",
+    date: "2025-08-09",
+    source: "Beacons",
+  },
+  {
+    brand: "rocket.new",
+    title: "Rocket — Empezar por un MVP",
+    url: "https://www.instagram.com/reel/DM_MmMGxrTn/",
+    platform: "Instagram",
+    date: "2025-08-05",
+    source: "Beacons",
+  },
+  {
+    brand: "rocket.new",
+    title: "Aún no tienes portafolio?",
+    url: "https://www.instagram.com/reel/DM2_95OgyjT/",
+    platform: "Instagram",
+    date: "2025-08-02",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title: "Tu portafolio no necesita código. Solo decisión. #Rocket #pamsho",
+    url: "https://www.youtube.com/watch?v=7V1UJNo1jv4",
+    platform: "YouTube",
+    date: "2025-08-02",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title: "Rocket — Crear un portafolio",
+    url: "https://www.tiktok.com/@pamsho_/video/7534026469476011271",
+    platform: "TikTok",
+    date: "2025-08-02",
+    source: "Beacons",
+  },
+  {
+    brand: "rocket.new",
+    title:
+      "¿Cuántas ideas has dejado morir solo porque no sabías cómo empezarlas? 🧠💡",
+    url: "https://www.instagram.com/reel/DMvEKZHMB3m/",
+    platform: "Instagram",
+    date: "2025-07-30",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title:
+      "¿Tienes una idea buenísima para una app pero cada vez que abres VSCode te dan ganas de llorar?",
+    url: "https://www.instagram.com/reel/DMlVPcTOemU/",
+    platform: "Instagram",
+    date: "2025-07-26",
+    source: "Metricool",
+  },
+  {
+    brand: "rocket.new",
+    title: "Rocket — De idea a app",
+    url: "https://www.tiktok.com/@pamsho_/video/7531483306404121874",
+    platform: "TikTok",
+    date: "2025-07-26",
+    source: "Beacons",
+  },
+  {
+    brand: "GVGmall",
+    title:
+      "Windows 10 está a punto de quedar sin soporte oficial… ¿y ahora qué?",
+    url: "https://www.instagram.com/reel/DMXr2WPgZOD/",
+    platform: "Instagram",
+    date: "2025-07-21",
+    source: "Metricool",
+  },
+  {
+    brand: "GVGmall",
+    title: "Windows 10 está por perder soporte",
+    url: "https://www.youtube.com/watch?v=jffLQz8egFk",
+    platform: "YouTube",
+    date: "2025-07-21",
+    source: "Metricool",
+  },
+  {
+    brand: "Immigo",
+    title:
+      "¿Quieres aprender inglés como si estuvieras viviendo en Estados Unidos_ 🇺🇸 Con Immigo p...",
+    url: "https://www.youtube.com/watch?v=0YzuYDkO66g",
+    platform: "YouTube",
+    date: "2025-07-16",
+    source: "Metricool",
+  },
+  {
+    brand: "Xiaomi / POCO",
+    title:
+      "🔥 No es solo un teléfono gamer… es el POCO F7, y sí, me tocó el negro 🖤",
+    url: "https://www.instagram.com/reel/DLbGyzsgHzN/",
+    platform: "Instagram",
+    date: "2025-06-28",
+    source: "Metricool",
+  },
+  {
+    brand: "Xiaomi / POCO",
+    title:
+      "📱 POCO F7: potencia bruta + promo limitada. ¿Ya lo pediste? → #POCOF7",
+    url: "https://www.youtube.com/watch?v=bfTHqUv9Je4",
+    platform: "YouTube",
+    date: "2025-06-28",
+    source: "Metricool",
+  },
+  {
+    brand: "Virgin Mobile",
+    title: "🔥 Tu vida ya es digital. ¿Y tu red?",
+    url: "https://www.instagram.com/reel/DLTmUgGgtcW/",
+    platform: "Instagram",
+    date: "2025-06-25",
+    source: "Metricool",
+  },
+  {
+    brand: "UGREEN",
+    title:
+      "Descubre el cargador que cambiará la forma en que cargas tus dispositivos_ el UGREEN Uno ...",
+    url: "https://www.youtube.com/watch?v=fKtWrjuh8gY",
+    platform: "YouTube",
+    date: "2025-06-22",
+    source: "Metricool",
+  },
+  {
+    brand: "Xiaomi / POCO",
+    title: "🔥 ¿Listo para liberar el superpoder del rendimiento?",
+    url: "https://www.instagram.com/reel/DLKzOdSNwcX/",
+    platform: "Instagram",
+    date: "2025-06-21",
+    source: "Metricool",
+  },
+  {
+    brand: "BenQ",
+    title:
+      "Monitos para programadores este es el benqGW2785TC que cuenta con distintas característic...",
+    url: "https://www.youtube.com/watch?v=xFpJfdlLUTs",
+    platform: "YouTube",
+    date: "2025-05-20",
+    source: "Metricool",
+  },
+  {
+    brand: "UGREEN",
+    title:
+      "Les presento la nueva powerbank de UGREEN, el modelo Nexode de 12,000 mAh con salida de h...",
+    url: "https://www.youtube.com/watch?v=8rTO2qeO0i8",
+    platform: "YouTube",
+    date: "2025-05-15",
+    source: "Metricool",
+  },
+  {
+    brand: "UGREEN",
+    title:
+      "Hoy me toco ir a tramitar mi pasaporte y continuar con la chamba gracias a ugreen por el ...",
+    url: "https://www.youtube.com/watch?v=RiX5FHB9X0k",
+    platform: "YouTube",
+    date: "2025-05-09",
+    source: "Metricool",
+  },
+  {
+    brand: "Maono",
+    title:
+      "El micrófono #maono #DGM20 es una excelente alternativa calidad precio para los que busca...",
+    url: "https://www.youtube.com/watch?v=OuyoDIKKh8A",
+    platform: "YouTube",
+    date: "2025-04-28",
+    source: "Metricool",
+  },
+  {
+    brand: "UGREEN",
+    title:
+      "Descubre el cargador que cambiará la forma en que cargas tus dispositivos_ el UGREEN Uno ...",
+    url: "https://www.youtube.com/watch?v=a8F2DsiFUPU",
+    platform: "YouTube",
+    date: "2025-04-23",
+    source: "Metricool",
+  },
+  {
+    brand: "Immigo",
+    title:
+      "¿Quieres aprender inglés como si estuvieras viviendo en Estados Unidos_ 🇺🇸 Con Immigo p...",
+    url: "https://www.youtube.com/watch?v=_sFks23Zt3c",
+    platform: "YouTube",
+    date: "2025-03-26",
+    source: "Metricool",
+  },
+  {
+    brand: "Immigo",
+    title: "🔥 POV: Esta app te transporta a Nueva York y mejora tu inglés 🗽",
+    url: "https://www.instagram.com/reel/DHT1pmwxPVC/",
+    platform: "Instagram",
+    date: "2025-03-17",
+    source: "Metricool",
+  },
+  {
+    brand: "Qodo",
+    title:
+      '🔥 "¿Y si te dijera que puedes **generar código**, **escribir tests** y **depurar bugs** con una sola herramienta? 🚀…',
+    url: "https://www.instagram.com/reel/DHESTDtvJuL/",
+    platform: "Instagram",
+    date: "2025-03-11",
+    source: "Metricool",
+  },
+  {
+    brand: "BenQ",
+    title:
+      "Monitos para programadores este es el benqGW2785TC que cuenta con distintas característic...",
+    url: "https://www.youtube.com/watch?v=ehot31HlvMM",
+    platform: "YouTube",
+    date: "2025-03-05",
+    source: "Metricool",
+  },
+  {
+    brand: "UGREEN",
+    title:
+      "Les presento la nueva powerbank de UGREEN, el modelo Nexode de 12,000 mAh con salida de h...",
+    url: "https://www.youtube.com/watch?v=O1Sts69WjlY",
+    platform: "YouTube",
+    date: "2025-03-03",
+    source: "Metricool",
+  },
+  {
+    brand: "UGREEN",
+    title:
+      "Hoy me toco ir a tramitar mi pasaporte y continuar con la chamba gracias a ugreen por el ...",
+    url: "https://www.youtube.com/watch?v=VTo9ekDkR4o",
+    platform: "YouTube",
+    date: "2025-02-26",
+    source: "Metricool",
+  },
+  {
+    brand: "UGREEN",
+    title:
+      "Descubre el cargador que cambiará la forma en que cargas tus dispositivos_ el UGREEN Uno ...",
+    url: "https://www.youtube.com/watch?v=7sPDgQSA0DM",
+    platform: "YouTube",
+    date: "2025-02-18",
+    source: "Metricool",
+  },
+  {
+    brand: "Rivium",
+    title:
+      "Un dia en mi vida como developer probando las app de @Rivium para invertir facil desde 10...",
+    url: "https://www.youtube.com/watch?v=LaCbnOw-Q4g",
+    platform: "YouTube",
+    date: "2025-02-12",
+    source: "Metricool",
+  },
+  {
+    brand: "Maono",
+    title:
+      "El micrófono #maono #DGM20 es una excelente alternativa calidad precio para los que busca...",
+    url: "https://www.youtube.com/watch?v=iR9VVnrLGvk",
+    platform: "YouTube",
+    date: "2025-02-12",
+    source: "Metricool",
+  },
+  {
+    brand: "UGREEN",
+    title:
+      "Les presento la nueva powerbank de UGREEN, el modelo Nexode de 12,000 mAh con salida de h...",
+    url: "https://www.youtube.com/watch?v=uYFkKMaJbRg",
+    platform: "YouTube",
+    date: "2025-02-05",
+    source: "Metricool",
+  },
+  {
+    brand: "UGREEN",
+    title:
+      "Descubre el cargador que cambiará la forma en que cargas tus dispositivos_ el UGREEN Uno ...",
+    url: "https://www.youtube.com/watch?v=nVtmN_gH8jw",
+    platform: "YouTube",
+    date: "2025-01-29",
+    source: "Metricool",
+  },
+  {
+    brand: "UGREEN",
+    title:
+      "Les presento la nueva powerbank de UGREEN, el modelo Nexode de 12,000 mAh con salida de hasta 100W",
+    url: "https://www.youtube.com/watch?v=zshrVqT11Zo",
+    platform: "YouTube",
+    date: "2025-01-15",
+    source: "Metricool",
+  },
+  {
+    brand: "Immigo",
+    title:
+      "¿Quieres aprender inglés como si estuvieras viviendo en Estados Unidos? 🇺🇸 Con Immigo puedes practicar en…",
+    url: "https://www.instagram.com/reel/DEL3oQGgp9p/",
+    platform: "Instagram",
+    date: "2024-12-30",
+    source: "Metricool",
+  },
+  {
+    brand: "Immigo",
+    title:
+      "¿Aprendiendo frameworks, pero el inglés sigue siendo tu reto? 🌐 No dejes que el idioma sea un obstáculo en tu…",
+    url: "https://www.instagram.com/reel/DCrm9W2xpuX/",
+    platform: "Instagram",
+    date: "2024-11-22",
+    source: "Metricool",
+  },
+  {
+    brand: "UGREEN",
+    title:
+      "Descubre el cargador que cambiará la forma en que cargas tus dispositivos: el UGREEN Uno RG de 100W. Con una…",
+    url: "https://www.instagram.com/reel/DCS1azQABNt/",
+    platform: "Instagram",
+    date: "2024-11-13",
+    source: "Metricool",
+  },
+  {
+    brand: "Immigo",
+    title:
+      "¿Buscando trabajo remoto? 💻 Aquí te dejo algunos tips para encontrarlo, ¡y uno de los más importantes es mejorar tu…",
+    url: "https://www.instagram.com/reel/DBFeeSkAOIq/",
+    platform: "Instagram",
+    date: "2024-10-14",
+    source: "Metricool",
+  },
+  {
+    brand: "Immigo",
+    title:
+      "Volverte full stack parece fácil, ¿verdad? 😅 Dominas frontend, backend, un poco de todo... pero lo más difícil no es…",
+    url: "https://www.instagram.com/reel/C_rZdWsAW5Z/",
+    platform: "Instagram",
+    date: "2024-09-09",
+    source: "Metricool",
+  },
+  {
+    brand: "UGREEN",
+    title:
+      "Les presento la nueva powerbank de UGREEN, el modelo Nexode de 12,000 mAh con salida de hasta 100W. 🚀 No se dejen…",
+    url: "https://www.instagram.com/reel/C_mFhzegq01/",
+    platform: "Instagram",
+    date: "2024-09-07",
+    source: "Metricool",
+  },
+  {
+    brand: "Immigo",
+    title:
+      "¿Quieres conseguir trabajo rápido como desarrollador? La clave no está solo en lo técnico, sino en el inglés. Este…",
+    url: "https://www.instagram.com/reel/C9tIPsXA0PA/",
+    platform: "Instagram",
+    date: "2024-07-22",
+    source: "Metricool",
+  },
+  {
+    brand: "UGREEN",
+    title:
+      "¿Necesitas cargar tus dispositivos rápidamente? ¡El cargador NexoDe de 65W es la solución! Y no te pierdas las…",
+    url: "https://www.instagram.com/reel/C7AqKk1g34S/",
+    platform: "Instagram",
+    date: "2024-05-16",
+    source: "Metricool",
+  },
+  {
+    brand: "UGREEN",
+    title:
+      "Hoy me toco ir a tramitar mi pasaporte y continuar con la chamba gracias a @ugreenmexico_official por el nexode x de…",
+    url: "https://www.instagram.com/reel/C6AQc6cA4I7/",
+    platform: "Instagram",
+    date: "2024-04-21",
+    source: "Metricool",
+  },
+  {
+    brand: "BenQ",
+    title:
+      "Monitos para programadores este es el benqGW2785TC que cuenta con distintas características que favorecen a el…",
+    url: "https://www.instagram.com/reel/C54oQzrg0cD/",
+    platform: "Instagram",
+    date: "2024-04-18",
+    source: "Metricool",
+  },
+  {
+    brand: "Maono",
+    title:
+      "El micrófono #maono #DGM20 es una excelente alternativa calidad precio para los que buscamos algo versátiles y…",
+    url: "https://www.instagram.com/reel/C0DMU8sgEwV/",
+    platform: "Instagram",
+    date: "2023-11-25",
+    source: "Metricool",
+  },
+  {
+    brand: "bombavista",
+    title: "Estos son 3 consejos para cuidar tu visita ",
+    url: "https://www.instagram.com/reel/CyW4bUXgKux/",
+    platform: "Instagram",
+    date: "2023-10-13",
+    source: "Metricool",
+  },
+  {
+    brand: "Rivium",
+    title:
+      "Un dia en mi vida como developer probando las app de @rivium_app para invertir facil desde 100 pesos #rivium…",
+    url: "https://www.instagram.com/reel/CwOxsiPATYm/",
+    platform: "Instagram",
+    date: "2023-08-22",
+    source: "Metricool",
+  },
+  {
+    brand: "Rivium",
+    title: "Un día probando Rivium",
+    url: "https://www.youtube.com/watch?v=CJSESXc-BH4",
+    platform: "YouTube",
+    date: "2023-08-22",
+    source: "Metricool",
+  },
+  {
+    brand: "Maono",
+    title:
+      "Micrófono Maono WM600: ¡El accesorio imprescindible para tu iPhone!",
+    url: "https://www.youtube.com/watch?v=77mbBTZbing",
+    platform: "YouTube",
+    date: "2023-08-04",
+    source: "Metricool",
   },
-  {
-    "brand": "Overcut",
-    "title": "Overcut — Agentes en el flujo de desarrollo",
-    "url": "https://vt.tiktok.com/ZSQvGcVws/",
-    "platform": "TikTok",
-    "date": "2026-06-19",
-    "source": "Gmail"
-  },
-  {
-    "brand": "GVGmall",
-    "title": "¿Cuántas veces abriste Word el mes pasado? Hay quien paga Office todos los meses solo para abrir Excel una vez 😅…",
-    "url": "https://www.instagram.com/reel/DZq2IimBhmL/",
-    "platform": "Instagram",
-    "date": "2026-06-17",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "¿Te enteras de las novedades de tus competidores por un amigo o varios días tarde?",
-    "url": "https://www.instagram.com/reel/DY8f1IjOaMq/",
-    "platform": "Instagram",
-    "date": "2026-05-30",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Whokeys",
-    "title": "A ver… Microsoft 365 parece barato hasta que haces las cuentas y descubres cuánto terminas pagando después de años 💀",
-    "url": "https://www.instagram.com/reel/DY005uGu47t/",
-    "platform": "Instagram",
-    "date": "2026-05-27",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "¿Sabes qué es una retry storm en producción?",
-    "url": "https://www.instagram.com/reel/DYYcoHCJSTx/",
-    "platform": "Instagram",
-    "date": "2026-05-16",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Dreamina",
-    "title": "Soy dev, no editor — pero hice este video con una sola línea de texto 🤯",
-    "url": "https://www.instagram.com/reel/DYLkuQ3yvBd/",
-    "platform": "Instagram",
-    "date": "2026-05-11",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Dreamina",
-    "title": "Dreamina Seedance 2.0 in early access on Dreamina. Try it now!",
-    "url": "https://www.instagram.com/reel/DWowr_tDZVx/",
-    "platform": "Instagram",
-    "date": "2026-04-02",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Kimi",
-    "title": "Si todavía estás pagando APIs carísimas para programar… o ya te resignaste a modelos baratos que no dan la talla,…",
-    "url": "https://www.instagram.com/reel/DVtbwCODT3W/",
-    "platform": "Instagram",
-    "date": "2026-03-10",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Kimi",
-    "title": "Un modelo open llamado Kimi está compitiendo en coding y cuesta hasta 8× menos.",
-    "url": "https://www.youtube.com/watch?v=GweI1BCf8QE",
-    "platform": "YouTube",
-    "date": "2026-03-10",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Kimi",
-    "title": "Pregunta seria 👀",
-    "url": "https://www.instagram.com/reel/DUuAZJWDffK/",
-    "platform": "Instagram",
-    "date": "2026-02-14",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "Subir fotos, grabar audios, autenticación y storage…",
-    "url": "https://www.instagram.com/reel/DTRHiSQjduH/",
-    "platform": "Instagram",
-    "date": "2026-01-08",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "Una app fullstack para guardar fotos + audios desde un solo prompt 🚀",
-    "url": "https://www.youtube.com/watch?v=w2mhBhw-NEM",
-    "platform": "YouTube",
-    "date": "2026-01-08",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Skywork",
-    "title": "💼 La parte más difícil de ser freelance no es programar… es vender.",
-    "url": "https://www.instagram.com/reel/DTIyTxnDiGL/",
-    "platform": "Instagram",
-    "date": "2026-01-05",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Skywork",
-    "title": "Deja Word.  propuestas profesionales y cierra clientes en minutos con IA 🚀",
-    "url": "https://www.youtube.com/watch?v=gEvT3mgqlZU",
-    "platform": "YouTube",
-    "date": "2026-01-05",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "💭 A veces no necesitas otra app… necesitas decir las cosas bien.",
-    "url": "https://www.instagram.com/reel/DTDlsgJDXjS/",
-    "platform": "Instagram",
-    "date": "2026-01-03",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "Una app para escribir disculpa bien hechassin textos incómodos ni vueltas raras",
-    "url": "https://www.youtube.com/watch?v=0mHmt4KyeXA",
-    "platform": "YouTube",
-    "date": "2026-01-03",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "💥 Tus propósitos no fallan… fallan por falta de datos.",
-    "url": "https://www.instagram.com/reel/DS-RPnlDSKI/",
-    "platform": "Instagram",
-    "date": "2026-01-01",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "Tus propósito no fallan,fallas por no medirlos 📊Construye algo que te confronte 💥",
-    "url": "https://www.youtube.com/watch?v=ypRyu-rX9tk",
-    "platform": "YouTube",
-    "date": "2026-01-01",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "🤯 Sí, acabo de construir una app completa desde mi celular.",
-    "url": "https://www.instagram.com/reel/DSxkt-_jffk/",
-    "platform": "Instagram",
-    "date": "2025-12-27",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "Construí una app completa desde mi celular. Ahora mis ideas ya no mueren en Notas 📱🚀@rocketdotnew",
-    "url": "https://www.youtube.com/watch?v=Ik_CGhI1RRg",
-    "platform": "YouTube",
-    "date": "2025-12-27",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "🎅🎁 Secret Santa, pero bien hecho: sin cuentas, sin registros, sin correos… solo links privados.",
-    "url": "https://www.instagram.com/reel/DSpvviWDVuq/",
-    "platform": "Instagram",
-    "date": "2025-12-24",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "Secret Santa sin cuentas: solo links privados y UI navideña premium @rocketdotnew",
-    "url": "https://www.youtube.com/watch?v=NggcR9o2H7E",
-    "platform": "YouTube",
-    "date": "2025-12-24",
-    "source": "Metricool"
-  },
-  {
-    "brand": "TerraMaster",
-    "title": "Creías que un NAS solo servía para guardar archivos? 😏",
-    "url": "https://www.instagram.com/reel/DQwaCqXjZ5g/",
-    "platform": "Instagram",
-    "date": "2025-11-07",
-    "source": "Metricool"
-  },
-  {
-    "brand": "TerraMaster",
-    "title": "💾 Tu NAS no solo guarda archivos… pued #pamsho_  correr bots y hasta tu casa inteligente 🧠",
-    "url": "https://www.youtube.com/watch?v=m-NgOcoWZeg",
-    "platform": "YouTube",
-    "date": "2025-11-07",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Steren",
-    "title": "⚡️ ¿Sabías que ahora puedes aprender electrónica y programación desde cero con cursos gratuitos de @steren.oficial ?",
-    "url": "https://www.instagram.com/reel/DQCxrl9CXXG/",
-    "platform": "Instagram",
-    "date": "2025-10-20",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Steren",
-    "title": "⚡️ Cursos gratis de electrónica con kits de Steren 😎 #pamsho_ #Steren #techlearning",
-    "url": "https://www.youtube.com/watch?v=QNllJ5VqKLo",
-    "platform": "YouTube",
-    "date": "2025-10-20",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Coddy Tech",
-    "title": "👨‍💻 Aprender a programar desde cero suena fácil… hasta que abres la terminal y parece que te hackean.",
-    "url": "https://www.instagram.com/reel/DPO6eTVjXdk/",
-    "platform": "Instagram",
-    "date": "2025-09-30",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Coddy Tech",
-    "title": "Aprender a programar es difícil… Coddy.tech lo hace divertido 🚀👨‍💻",
-    "url": "https://www.youtube.com/watch?v=O0MMsR29-AI",
-    "platform": "YouTube",
-    "date": "2025-09-30",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "⏳ ¿Cuánto tardarías en codear una app de citas médicas?",
-    "url": "https://www.instagram.com/reel/DO9OvQeCXWO/",
-    "platform": "Instagram",
-    "date": "2025-09-23",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "Con Rocket armé un app de citas médicas en minutos ⏳🚀 ¿Tú cuánto tardarías?",
-    "url": "https://www.youtube.com/watch?v=u_ywfTyVfeA",
-    "platform": "YouTube",
-    "date": "2025-09-23",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "⚡️ ¿Sigues perdiendo horas configurando un backend solo para un MVP?",
-    "url": "https://www.instagram.com/reel/DO3vklejUDK/",
-    "platform": "Instagram",
-    "date": "2025-09-21",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "Rocket + Supabase = backend completo en minutos, no en semanas 🚀",
-    "url": "https://www.youtube.com/watch?v=bzRYyQWTL28",
-    "platform": "YouTube",
-    "date": "2025-09-21",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "✨ Muchos creen que Rocket es “magia”, pero no: es código real.",
-    "url": "https://www.instagram.com/reel/DOy0IAcFOwM/",
-    "platform": "Instagram",
-    "date": "2025-09-19",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "Rocket no es magia: es código real, apps listas para producción en minutos.",
-    "url": "https://www.youtube.com/watch?v=c9VrKnBgTYk",
-    "platform": "YouTube",
-    "date": "2025-09-19",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "🤯 ¿Sigues presentando wireframes que nunca se usan? Con Rocket pasas de mockups a prototipos reales en horas, no en…",
-    "url": "https://www.instagram.com/reel/DOtYkAyDVgp/",
-    "platform": "Instagram",
-    "date": "2025-09-17",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "De mockups eternos a prototipos reales en horas con Rocket 🚀",
-    "url": "https://www.youtube.com/watch?v=TQ7uqktL9F8",
-    "platform": "YouTube",
-    "date": "2025-09-17",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "🚀 Todos soñamos con un intern que haga todo bien… y en la vida real no existe.",
-    "url": "https://www.instagram.com/reel/DOoaZgKDSDx/",
-    "platform": "Instagram",
-    "date": "2025-09-15",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "Rocket: el intern que sí sabe codear (y no rompe la DB) 🚀",
-    "url": "https://www.youtube.com/watch?v=LoNLL1jiqIo",
-    "platform": "YouTube",
-    "date": "2025-09-15",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "🚀 ¿Tu empresa tarda meses en lanzar un MVP? Con Rocket puedes reducir ese tiempo a horas.",
-    "url": "https://www.instagram.com/reel/DOjIP-3jJL-/",
-    "platform": "Instagram",
-    "date": "2025-09-13",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "De meses a horas 🚀 así Rocket convierte tu idea en un MVP listo para mostrar.",
-    "url": "https://www.youtube.com/watch?v=S3I9fyCBhio",
-    "platform": "YouTube",
-    "date": "2025-09-13",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "Le pedí a Rocket un Tinder de perritos 🐶❤️ y sí… hasta hizo la lógica de match.",
-    "url": "https://www.youtube.com/watch?v=ZECuXYPXE8Q",
-    "platform": "YouTube",
-    "date": "2025-09-12",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "🔥 Le pedí a Rocket que armara un Tinder de perritos… y sí, funcionó.",
-    "url": "https://www.instagram.com/reel/DOd_mOPEa_o/",
-    "platform": "Instagram",
-    "date": "2025-09-11",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "🚀 ¿Te imaginas generar un sitio web o una app con solo describir tu idea?",
-    "url": "https://www.instagram.com/reel/DOY5eSDjbEg/",
-    "platform": "Instagram",
-    "date": "2025-09-09",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "#rocket.new #rocketai #rocket #nocoderocket",
-    "url": "https://www.youtube.com/watch?v=NnxFVQTf8s8",
-    "platform": "YouTube",
-    "date": "2025-09-09",
-    "source": "Metricool"
-  },
-  {
-    "brand": "TerraMaster",
-    "title": "NAS = nube privada + server dev en casa. ¿Quieres guía paso a paso? #pamsho_",
-    "url": "https://www.youtube.com/watch?v=_FmHDNmu9hs",
-    "platform": "YouTube",
-    "date": "2025-09-03",
-    "source": "Metricool"
-  },
-  {
-    "brand": "TerraMaster",
-    "title": "TerraMaster — Nube privada y servidor",
-    "url": "https://www.instagram.com/reel/DOJtck9Cf_1/",
-    "platform": "Instagram",
-    "date": "2025-09-03",
-    "source": "Beacons"
-  },
-  {
-    "brand": "TerraMaster",
-    "title": "TerraMaster — Nube privada y servidor",
-    "url": "https://www.tiktok.com/@pamsho_/video/7545945870844398855",
-    "platform": "TikTok",
-    "date": "2025-09-03",
-    "source": "Beacons"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "Rocket — Validar un MVP",
-    "url": "https://www.instagram.com/reel/DNHVHhIAXl1/",
-    "platform": "Instagram",
-    "date": "2025-08-09",
-    "source": "Beacons"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "Rocket — Validar un MVP",
-    "url": "https://www.tiktok.com/@pamsho_/video/7536385979872038151",
-    "platform": "TikTok",
-    "date": "2025-08-09",
-    "source": "Beacons"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "Rocket — Empezar por un MVP",
-    "url": "https://www.instagram.com/reel/DM_MmMGxrTn/",
-    "platform": "Instagram",
-    "date": "2025-08-05",
-    "source": "Beacons"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "Aún no tienes portafolio?",
-    "url": "https://www.instagram.com/reel/DM2_95OgyjT/",
-    "platform": "Instagram",
-    "date": "2025-08-02",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "Tu portafolio no necesita código. Solo decisión. #Rocket #pamsho",
-    "url": "https://www.youtube.com/watch?v=7V1UJNo1jv4",
-    "platform": "YouTube",
-    "date": "2025-08-02",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "Rocket — Crear un portafolio",
-    "url": "https://www.tiktok.com/@pamsho_/video/7534026469476011271",
-    "platform": "TikTok",
-    "date": "2025-08-02",
-    "source": "Beacons"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "¿Cuántas ideas has dejado morir solo porque no sabías cómo empezarlas? 🧠💡",
-    "url": "https://www.instagram.com/reel/DMvEKZHMB3m/",
-    "platform": "Instagram",
-    "date": "2025-07-30",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "¿Tienes una idea buenísima para una app pero cada vez que abres VSCode te dan ganas de llorar?",
-    "url": "https://www.instagram.com/reel/DMlVPcTOemU/",
-    "platform": "Instagram",
-    "date": "2025-07-26",
-    "source": "Metricool"
-  },
-  {
-    "brand": "rocket.new",
-    "title": "Rocket — De idea a app",
-    "url": "https://www.tiktok.com/@pamsho_/video/7531483306404121874",
-    "platform": "TikTok",
-    "date": "2025-07-26",
-    "source": "Beacons"
-  },
-  {
-    "brand": "GVGmall",
-    "title": "Windows 10 está a punto de quedar sin soporte oficial… ¿y ahora qué?",
-    "url": "https://www.instagram.com/reel/DMXr2WPgZOD/",
-    "platform": "Instagram",
-    "date": "2025-07-21",
-    "source": "Metricool"
-  },
-  {
-    "brand": "GVGmall",
-    "title": "Windows 10 está por perder soporte",
-    "url": "https://www.youtube.com/watch?v=jffLQz8egFk",
-    "platform": "YouTube",
-    "date": "2025-07-21",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Immigo",
-    "title": "¿Quieres aprender inglés como si estuvieras viviendo en Estados Unidos_ 🇺🇸 Con Immigo p...",
-    "url": "https://www.youtube.com/watch?v=0YzuYDkO66g",
-    "platform": "YouTube",
-    "date": "2025-07-16",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Xiaomi / POCO",
-    "title": "🔥 No es solo un teléfono gamer… es el POCO F7, y sí, me tocó el negro 🖤",
-    "url": "https://www.instagram.com/reel/DLbGyzsgHzN/",
-    "platform": "Instagram",
-    "date": "2025-06-28",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Xiaomi / POCO",
-    "title": "📱 POCO F7: potencia bruta + promo limitada. ¿Ya lo pediste? → #POCOF7",
-    "url": "https://www.youtube.com/watch?v=bfTHqUv9Je4",
-    "platform": "YouTube",
-    "date": "2025-06-28",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Virgin Mobile",
-    "title": "🔥 Tu vida ya es digital. ¿Y tu red?",
-    "url": "https://www.instagram.com/reel/DLTmUgGgtcW/",
-    "platform": "Instagram",
-    "date": "2025-06-25",
-    "source": "Metricool"
-  },
-  {
-    "brand": "UGREEN",
-    "title": "Descubre el cargador que cambiará la forma en que cargas tus dispositivos_ el UGREEN Uno ...",
-    "url": "https://www.youtube.com/watch?v=fKtWrjuh8gY",
-    "platform": "YouTube",
-    "date": "2025-06-22",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Xiaomi / POCO",
-    "title": "🔥 ¿Listo para liberar el superpoder del rendimiento?",
-    "url": "https://www.instagram.com/reel/DLKzOdSNwcX/",
-    "platform": "Instagram",
-    "date": "2025-06-21",
-    "source": "Metricool"
-  },
-  {
-    "brand": "BenQ",
-    "title": "Monitos para programadores este es el benqGW2785TC que cuenta con distintas característic...",
-    "url": "https://www.youtube.com/watch?v=xFpJfdlLUTs",
-    "platform": "YouTube",
-    "date": "2025-05-20",
-    "source": "Metricool"
-  },
-  {
-    "brand": "UGREEN",
-    "title": "Les presento la nueva powerbank de UGREEN, el modelo Nexode de 12,000 mAh con salida de h...",
-    "url": "https://www.youtube.com/watch?v=8rTO2qeO0i8",
-    "platform": "YouTube",
-    "date": "2025-05-15",
-    "source": "Metricool"
-  },
-  {
-    "brand": "UGREEN",
-    "title": "Hoy me toco ir a tramitar mi pasaporte y continuar con la chamba gracias a ugreen por el ...",
-    "url": "https://www.youtube.com/watch?v=RiX5FHB9X0k",
-    "platform": "YouTube",
-    "date": "2025-05-09",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Maono",
-    "title": "El micrófono #maono #DGM20 es una excelente alternativa calidad precio para los que busca...",
-    "url": "https://www.youtube.com/watch?v=OuyoDIKKh8A",
-    "platform": "YouTube",
-    "date": "2025-04-28",
-    "source": "Metricool"
-  },
-  {
-    "brand": "UGREEN",
-    "title": "Descubre el cargador que cambiará la forma en que cargas tus dispositivos_ el UGREEN Uno ...",
-    "url": "https://www.youtube.com/watch?v=a8F2DsiFUPU",
-    "platform": "YouTube",
-    "date": "2025-04-23",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Immigo",
-    "title": "¿Quieres aprender inglés como si estuvieras viviendo en Estados Unidos_ 🇺🇸 Con Immigo p...",
-    "url": "https://www.youtube.com/watch?v=_sFks23Zt3c",
-    "platform": "YouTube",
-    "date": "2025-03-26",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Immigo",
-    "title": "🔥 POV: Esta app te transporta a Nueva York y mejora tu inglés 🗽",
-    "url": "https://www.instagram.com/reel/DHT1pmwxPVC/",
-    "platform": "Instagram",
-    "date": "2025-03-17",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Qodo",
-    "title": "🔥 \"¿Y si te dijera que puedes **generar código**, **escribir tests** y **depurar bugs** con una sola herramienta? 🚀…",
-    "url": "https://www.instagram.com/reel/DHESTDtvJuL/",
-    "platform": "Instagram",
-    "date": "2025-03-11",
-    "source": "Metricool"
-  },
-  {
-    "brand": "BenQ",
-    "title": "Monitos para programadores este es el benqGW2785TC que cuenta con distintas característic...",
-    "url": "https://www.youtube.com/watch?v=ehot31HlvMM",
-    "platform": "YouTube",
-    "date": "2025-03-05",
-    "source": "Metricool"
-  },
-  {
-    "brand": "UGREEN",
-    "title": "Les presento la nueva powerbank de UGREEN, el modelo Nexode de 12,000 mAh con salida de h...",
-    "url": "https://www.youtube.com/watch?v=O1Sts69WjlY",
-    "platform": "YouTube",
-    "date": "2025-03-03",
-    "source": "Metricool"
-  },
-  {
-    "brand": "UGREEN",
-    "title": "Hoy me toco ir a tramitar mi pasaporte y continuar con la chamba gracias a ugreen por el ...",
-    "url": "https://www.youtube.com/watch?v=VTo9ekDkR4o",
-    "platform": "YouTube",
-    "date": "2025-02-26",
-    "source": "Metricool"
-  },
-  {
-    "brand": "UGREEN",
-    "title": "Descubre el cargador que cambiará la forma en que cargas tus dispositivos_ el UGREEN Uno ...",
-    "url": "https://www.youtube.com/watch?v=7sPDgQSA0DM",
-    "platform": "YouTube",
-    "date": "2025-02-18",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Rivium",
-    "title": "Un dia en mi vida como developer probando las app de @Rivium para invertir facil desde 10...",
-    "url": "https://www.youtube.com/watch?v=LaCbnOw-Q4g",
-    "platform": "YouTube",
-    "date": "2025-02-12",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Maono",
-    "title": "El micrófono #maono #DGM20 es una excelente alternativa calidad precio para los que busca...",
-    "url": "https://www.youtube.com/watch?v=iR9VVnrLGvk",
-    "platform": "YouTube",
-    "date": "2025-02-12",
-    "source": "Metricool"
-  },
-  {
-    "brand": "UGREEN",
-    "title": "Les presento la nueva powerbank de UGREEN, el modelo Nexode de 12,000 mAh con salida de h...",
-    "url": "https://www.youtube.com/watch?v=uYFkKMaJbRg",
-    "platform": "YouTube",
-    "date": "2025-02-05",
-    "source": "Metricool"
-  },
-  {
-    "brand": "UGREEN",
-    "title": "Descubre el cargador que cambiará la forma en que cargas tus dispositivos_ el UGREEN Uno ...",
-    "url": "https://www.youtube.com/watch?v=nVtmN_gH8jw",
-    "platform": "YouTube",
-    "date": "2025-01-29",
-    "source": "Metricool"
-  },
-  {
-    "brand": "UGREEN",
-    "title": "Les presento la nueva powerbank de UGREEN, el modelo Nexode de 12,000 mAh con salida de hasta 100W",
-    "url": "https://www.youtube.com/watch?v=zshrVqT11Zo",
-    "platform": "YouTube",
-    "date": "2025-01-15",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Immigo",
-    "title": "¿Quieres aprender inglés como si estuvieras viviendo en Estados Unidos? 🇺🇸 Con Immigo puedes practicar en…",
-    "url": "https://www.instagram.com/reel/DEL3oQGgp9p/",
-    "platform": "Instagram",
-    "date": "2024-12-30",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Immigo",
-    "title": "¿Aprendiendo frameworks, pero el inglés sigue siendo tu reto? 🌐 No dejes que el idioma sea un obstáculo en tu…",
-    "url": "https://www.instagram.com/reel/DCrm9W2xpuX/",
-    "platform": "Instagram",
-    "date": "2024-11-22",
-    "source": "Metricool"
-  },
-  {
-    "brand": "UGREEN",
-    "title": "Descubre el cargador que cambiará la forma en que cargas tus dispositivos: el UGREEN Uno RG de 100W. Con una…",
-    "url": "https://www.instagram.com/reel/DCS1azQABNt/",
-    "platform": "Instagram",
-    "date": "2024-11-13",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Immigo",
-    "title": "¿Buscando trabajo remoto? 💻 Aquí te dejo algunos tips para encontrarlo, ¡y uno de los más importantes es mejorar tu…",
-    "url": "https://www.instagram.com/reel/DBFeeSkAOIq/",
-    "platform": "Instagram",
-    "date": "2024-10-14",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Immigo",
-    "title": "Volverte full stack parece fácil, ¿verdad? 😅 Dominas frontend, backend, un poco de todo... pero lo más difícil no es…",
-    "url": "https://www.instagram.com/reel/C_rZdWsAW5Z/",
-    "platform": "Instagram",
-    "date": "2024-09-09",
-    "source": "Metricool"
-  },
-  {
-    "brand": "UGREEN",
-    "title": "Les presento la nueva powerbank de UGREEN, el modelo Nexode de 12,000 mAh con salida de hasta 100W. 🚀 No se dejen…",
-    "url": "https://www.instagram.com/reel/C_mFhzegq01/",
-    "platform": "Instagram",
-    "date": "2024-09-07",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Immigo",
-    "title": "¿Quieres conseguir trabajo rápido como desarrollador? La clave no está solo en lo técnico, sino en el inglés. Este…",
-    "url": "https://www.instagram.com/reel/C9tIPsXA0PA/",
-    "platform": "Instagram",
-    "date": "2024-07-22",
-    "source": "Metricool"
-  },
-  {
-    "brand": "UGREEN",
-    "title": "¿Necesitas cargar tus dispositivos rápidamente? ¡El cargador NexoDe de 65W es la solución! Y no te pierdas las…",
-    "url": "https://www.instagram.com/reel/C7AqKk1g34S/",
-    "platform": "Instagram",
-    "date": "2024-05-16",
-    "source": "Metricool"
-  },
-  {
-    "brand": "UGREEN",
-    "title": "Hoy me toco ir a tramitar mi pasaporte y continuar con la chamba gracias a @ugreenmexico_official por el nexode x de…",
-    "url": "https://www.instagram.com/reel/C6AQc6cA4I7/",
-    "platform": "Instagram",
-    "date": "2024-04-21",
-    "source": "Metricool"
-  },
-  {
-    "brand": "BenQ",
-    "title": "Monitos para programadores este es el benqGW2785TC que cuenta con distintas características que favorecen a el…",
-    "url": "https://www.instagram.com/reel/C54oQzrg0cD/",
-    "platform": "Instagram",
-    "date": "2024-04-18",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Maono",
-    "title": "El micrófono #maono #DGM20 es una excelente alternativa calidad precio para los que buscamos algo versátiles y…",
-    "url": "https://www.instagram.com/reel/C0DMU8sgEwV/",
-    "platform": "Instagram",
-    "date": "2023-11-25",
-    "source": "Metricool"
-  },
-  {
-    "brand": "bombavista",
-    "title": "Estos son 3 consejos para cuidar tu visita ",
-    "url": "https://www.instagram.com/reel/CyW4bUXgKux/",
-    "platform": "Instagram",
-    "date": "2023-10-13",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Rivium",
-    "title": "Un dia en mi vida como developer probando las app de @rivium_app para invertir facil desde 100 pesos #rivium…",
-    "url": "https://www.instagram.com/reel/CwOxsiPATYm/",
-    "platform": "Instagram",
-    "date": "2023-08-22",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Rivium",
-    "title": "Un día probando Rivium",
-    "url": "https://www.youtube.com/watch?v=CJSESXc-BH4",
-    "platform": "YouTube",
-    "date": "2023-08-22",
-    "source": "Metricool"
-  },
-  {
-    "brand": "Maono",
-    "title": "Micrófono Maono WM600: ¡El accesorio imprescindible para tu iPhone!",
-    "url": "https://www.youtube.com/watch?v=77mbBTZbing",
-    "platform": "YouTube",
-    "date": "2023-08-04",
-    "source": "Metricool"
-  }
 ];

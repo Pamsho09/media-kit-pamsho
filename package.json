@@ -1,0 +1,19 @@
+{
+  "name": "pamsho-mediakit",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Pamsho public media kit static website.",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "eslint": "^9.39.1",
+    "globals": "^16.5.0",
+    "prettier": "^3.6.2"
+  }
+}
