@@ -1,17 +1,17 @@
 {
   "report": {
-    "checked": "2026-11-02",
-    "from": "2026-10-02",
-    "to": "2026-10-31",
+    "checked": "2026-11-09",
+    "from": "2026-10-10",
+    "to": "2026-11-08",
     "timezone": "America/Mexico_City"
   },
   "headline": {
     "instagram": {
-      "followers": 17529,
-      "followersAsOf": "2026-10-31",
-      "views": 290197,
-      "viewsFrom": "2026-10-02",
-      "viewsTo": "2026-10-31"
+      "followers": 17594,
+      "followersAsOf": "2026-11-08",
+      "views": 295418,
+      "viewsFrom": "2026-10-10",
+      "viewsTo": "2026-11-08"
     },
     "tiktok": {
       "followersDisplay": "36.8k",
@@ -19,43 +19,43 @@
     }
   },
   "audience": {
-    "checked": "2026-11-02",
-    "from": "2026-10-02",
-    "to": "2026-10-31",
+    "checked": "2026-11-09",
+    "from": "2026-10-10",
+    "to": "2026-11-08",
     "platforms": [
       {
         "id": "instagram",
         "name": "Instagram",
         "source": "Metricool",
-        "checked": "2026-11-02",
-        "base": 17483,
+        "checked": "2026-11-09",
+        "base": 17557,
         "age": [
-          { "label": "25-34", "value": 60.1841789166619 },
-          { "label": "35-44", "value": 18.34353371846937 },
-          { "label": "18-24", "value": 17.508436767145227 },
-          { "label": "45-54", "value": 2.533890064634216 },
-          { "label": "65+", "value": 0.623462792426929 },
-          { "label": "13-17", "value": 0.41754847566207176 },
-          { "label": "55-64", "value": 0.388949265000286 }
+          { "label": "25-34", "value": 60.18112433787094 },
+          { "label": "35-44", "value": 18.437090619126277 },
+          { "label": "18-24", "value": 17.36059691291223 },
+          { "label": "45-54", "value": 2.5687759867858975 },
+          { "label": "65+", "value": 0.6208349945890529 },
+          { "label": "13-17", "value": 0.42148430825311844 },
+          { "label": "55-64", "value": 0.4100928404624936 }
         ],
         "gender": [
-          { "label": "M", "value": 80.10638906366184 },
-          { "label": "F", "value": 10.026883258022078 },
-          { "label": "U", "value": 9.866727678316078 }
+          { "label": "M", "value": 80.0820185680925 },
+          { "label": "F", "value": 10.047274591331092 },
+          { "label": "U", "value": 9.870706840576409 }
         ],
         "countries": [
-          { "label": "MX", "value": 39.63999938964844 },
-          { "label": "CO", "value": 11.489999771118165 },
-          { "label": "AR", "value": 10.430000305175781 },
-          { "label": "PE", "value": 7.460000038146973 },
-          { "label": "CL", "value": 7.019999980926514 }
+          { "label": "MX", "value": 39.90999984741211 },
+          { "label": "CO", "value": 11.460000038146973 },
+          { "label": "AR", "value": 10.359999656677246 },
+          { "label": "PE", "value": 7.420000076293945 },
+          { "label": "CL", "value": 6.980000019073486 }
         ]
       },
       {
         "id": "youtube",
         "name": "YouTube",
         "source": "Metricool",
-        "checked": "2026-11-02",
+        "checked": "2026-11-09",
         "age": [
           { "label": "13-17", "value": 8.125 },
           { "label": "18-24", "value": 16.875 },
@@ -106,14 +106,14 @@
         "id": "facebook",
         "name": "Facebook",
         "source": "Metricool",
-        "checked": "2026-11-02",
+        "checked": "2026-11-09",
         "age": null,
         "gender": null,
         "countries": [
-          { "label": "MX", "value": 41.15999984741211 },
-          { "label": "PE", "value": 14.140000343322754 },
+          { "label": "MX", "value": 41.18000030517578 },
+          { "label": "PE", "value": 14.170000076293945 },
           { "label": "CO", "value": 11.5 },
-          { "label": "BO", "value": 5.320000171661377 },
+          { "label": "BO", "value": 5.309999942779541 },
           { "label": "VE", "value": 3.759999990463257 }
         ]
       },
